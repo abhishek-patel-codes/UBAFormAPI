@@ -1,0 +1,12 @@
+pymongo
+fastapi==0.100.0
+Jinja2
+pytest
+requests
+pytest-cov
+pytest-mock
+pytruth
+hypothesis
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic-settings
